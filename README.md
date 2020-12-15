@@ -8,3 +8,8 @@ This repository contains my solutions to all tasks assigned within the Emerging 
   * References are supplied at the bottom.
 * `images` :
   * Folder containing all images used within `tasks.ipynb`
+
+#### Dependencies
+* Python v3.7.0
+* Jupyter Notebook v5.6.0
+* Anaconda v4.5.11
