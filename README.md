@@ -8,6 +8,8 @@ This repository contains my solutions to all tasks assigned within the Emerging 
   * References are supplied at the bottom.
 * `images` :
   * Folder containing all images used within `tasks.ipynb`
+* `iris.csv`:
+  * Fisher's Iris Dataset. 
 
 #### Dependencies
 * Python v3.7.0
